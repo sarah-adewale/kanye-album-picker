@@ -1,0 +1,194 @@
+/******************************************
+/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+h1, h2{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+h1{
+  border: 5px solid black;
+  width: 35%;
+  font-size: 3.5rem;
+  margin-left: 480px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
+.pickAnAlbum{
+  margin-right: 80px;
+  font-size: 2rem;
+}
+
+section{
+  /* margin-top: 50px; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: auto;
+  /* column-gap: 40px; */
+}
+div{
+  margin: 0;
+}
+
+img{
+  display: block;
+  height: 446px;
+  width: 695px;
+  /* margin: 0 auto; */
+  
+  margin-left: 50px;
+  margin-top: 120px;
+}
+ul{
+  width: 306px;
+  height: 655px;
+  border: 3px solid black;
+  /* margin: 0 auto; */
+  margin-right: 50px;
+  list-style: none;
+  padding: 0;
+}
+li{
+  width: 300px;
+  height: 65px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+#lateRegistration{
+  display: none;
+}
+#collegeDropout{
+  display: none;
+}
+#graduation{
+  display: none;
+}
+#heartBreak{
+  display: none;
+}
+#darkTwisted{
+  display: none;
+}
+#yeezus{
+  display: none;
+}
+#lifeOfPablo{
+  display: none;
+}
+#ye{
+  display: none;
+}
+#jesusKing{
+  display: none;
+}
+#donda{
+  display: none;
+}
+
+#gold{
+  background: rgb(252, 251, 250);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#brown{
+  background: rgb(252, 251, 251);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#purple{
+  background: rgb(252, 251, 251);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#grey{
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#red{
+  background: rgb(253, 253, 253);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#silver{
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#orange{
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#lightBlue{
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#deepBlue{
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+#black{
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  font-size: 1.5rem;
+  color: rgb(53, 57, 53);
+  border-bottom: 1px solid black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
